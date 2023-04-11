@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Sabra
 
 
- - 🐾 I started my journey into data analytics in the most unlikely of places, a dog park. My very large puppy broke my finger as he jumped 
+ - 🐾 I started my curiosity of data analytics in the most unlikely of places, a dog park. My very large puppy broke my finger as he jumped 
  around with the zoomies, my hand securely in his collar.
  - ⚡️ While recovering, I read multiple news articles with graphics interpreting complex data. I became intrigued with the storytelling that could be 
  accomplished with data visualization. I was hooked!
